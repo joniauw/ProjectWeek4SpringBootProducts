@@ -1,4 +1,6 @@
 com\example\partyinaboxweb\Product.class
 com\example\partyinaboxweb\ProductRepository.class
+com\example\partyinaboxweb\ScopeValidator.class
 com\example\partyinaboxweb\ProductController.class
 com\example\partyinaboxweb\PartyInABoxWebApplication.class
+com\example\partyinaboxweb\WebSecurityConfiguration.class
